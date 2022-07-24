@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Alamin Tokee</h1>
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/tanvirul-islam-swe/">
-    <img src="https://img.shields.io/badge/linkedin-alamintokee-blue">
+    <img src="https://img.shields.io/badge/linkedin-tanvir">
   </a>
   <a href="https://www.instagram.com">
     <img src="https://img.shields.io/badge/instagram-alamintokee-orange">
@@ -19,26 +19,13 @@
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
 
-- 🔭 I’m currently working on **Improving CP Skills**
-- 🌱 I’m currently learning ... **React.js**
-- 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
-- 😄 Employement ... **Open for full-time opportunities**
-- 📫 How to reach me **<a href="mailto:alamintokee@gmail.com">alamintokee@gmail.com</a>**
+- 🔭 I’m currently working on **iPAGE Bangladesh Limited**
+- 🌱 I’m currently learning ... **Flutter ,GraphQL ,Dart,Rest API,SQLite,Complex JSON,BLE,NFC**
+- 💬 Ask me about ... **Mobile App Develpoment, Data Structures & Algorithms**
+- 😄 Employement ... **Assistant Software Engineer(Full time)**
+- 📫 How to reach me **<a href="mailto:tanvirul-swe@gmail.com">tanvirul-swe@gmail.com</a>**
 
-<h3>Competitive Programming: </h3>
 
-- **Leetcode**: [3⭐ and 1353+ rating📈](https://leetcode.com/Alamin_Tokee/)   
-- **Codeforces**: [Newbiew🧪](https://codeforces.com/profile/AH_Tokee)   
-- **Codechef**: [2⭐](https://www.codechef.com/users/alamintokee)   
-- **HackerRank**: [5⭐](https://www.hackerrank.com/pcswe556)  
-
-<h4>Programming Languages: </h4>
-<p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/c.png" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/python1.png" alt=python width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/java.png" alt=c width="60" height="60"/>
-</p>
 
 <h4>Skills and Tools: </h4>
 <p align="left">
@@ -75,12 +62,9 @@
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/slack.png" alt=slack width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/vsc.png" alt=vs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/atom.png" alt=atom width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/linux.png" alt=linux width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/win10.png" alt=windows10 width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/sublime.png" alt=sublime width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/eclipse.png" alt=sublime width="60" height="60"/>
 </p>
 <br />
 
@@ -180,12 +164,11 @@ PHP                      2 repos             ░░░░░░░░░░░�
 
 <p align="center">
 <!--<a href="https://codepen.io/alamintokee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="alamintokee" height="40" width="40" /></a>-->
-<a href="http://alamintokee.me/Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/web.png" alt="alamintokee" height="40" width="40" />
-<a href="https://linkedin.com/in/al-amin-tokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/linkedin.png" alt="alamintokee" height="40" width="40" /></a>
-<a href="https://instagram.com/alamintokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/instagram.png" alt="Al-Amin Tokee" height="40" width="40" /></a>
+<a href="http://alamintokee.me/Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/web.png" alt="tanvirislam" height="40" width="40" />
+<a href="https://www.linkedin.com/in/tanvirul-islam-swe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/linkedin.png" alt="alamintokee" height="40" width="40" /></a>
 <a href="https://youtube.com/CodeOptimizer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/youtube.png" alt="Al-Amin Tokee" height="40" width="40" /></a>
-<a href="https://twitter.com/tokee_al" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/twitter.png" alt="alamintokee" height="40" width="40" /></a>
-<a href="https://www.facebook.com/alaminhosen.tokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/facebook.png" alt="alamintokee" height="40" width="40" /></a>
+
+
 </p>
 
-⭐️ From [Alamin Tokee](https://github.com/Alamin-Tokee) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```HappyCoding```
+⭐️ From [Md. Tanvirul islam](https://github.com/Tanvirul-swe) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```HappyCoding```
