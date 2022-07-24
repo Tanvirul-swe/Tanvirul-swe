@@ -16,7 +16,7 @@
 <h3 align="center">Mobile App Development </h3>
 <h3 align="center">Bachelor in Engineering, Software Engineering (To be graduated in 2022)</h3>
 
-<img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
+
 
 
 - 🔭 I’m currently working on **iPAGE Bangladesh Limited**
