@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Alamin Tokee</h1>
  <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/al-amin-tokee/">
+   <a href="https://www.linkedin.com/in/tanvirul-islam-swe/">
     <img src="https://img.shields.io/badge/linkedin-alamintokee-blue">
   </a>
-  <a href="https://www.instagram.com/alamintokee/">
+  <a href="https://www.instagram.com">
     <img src="https://img.shields.io/badge/instagram-alamintokee-orange">
   </a>
   <a href="https://www.youtube.com/CodeOptimizer/">
@@ -13,14 +13,8 @@
 </p>
 
 
-<h3 align="center">Web Developer | Competitive Coder | Machine Learning </h3>
+<h3 align="center">Mobile App Development </h3>
 <h3 align="center">Bachelor in Engineering, Software Engineering (To be graduated in 2022)</h3>
-
-<!-- <a href="https://codechef.com/users/sachuverma"><img src="https://img.shields.io/badge/Codechef-2122-yellow"></a> -->
-<!-- <a href="https://codeforces.com/profile/sachuverma"><img src="https://img.shields.io/badge/Codeforces-1796-rgb(0%2C0%2C255)"></a> -->
-<!-- <a href="https://atcoder.jp/users/sachuverma"><img src="https://img.shields.io/badge/Atcoder-1300-rgb(0%2C192%2C192)"></a> -->
-<!-- <a href="https://leetcode.com/anjali-mc/"><img src="https://img.shields.io/badge/Leetcode-1940-ff69b4"></a> -->
-<!-- <a href="https://www.hackerrank.com/sachuverma"><img src="https://img.shields.io/badge/Hackerrank-1835-green"></a> -->
 
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
