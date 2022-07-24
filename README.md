@@ -54,21 +54,8 @@
 
 
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachuverma&count_private=true&show_icons=true" height="170px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachuverma&layout=compact" height="170px">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sachuverma" height="170px">
-</p>
- -->
 
-<p align="center">
-<!--<a href="https://codepen.io/alamintokee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="alamintokee" height="40" width="40" /></a>-->
-<a href="http://alamintokee.me/Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/web.png" alt="tanvirislam" height="40" width="40" />
-<a href="https://www.linkedin.com/in/tanvirul-islam-swe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/linkedin.png" alt="alamintokee" height="40" width="40" /></a>
-<a href="https://youtube.com/CodeOptimizer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/youtube.png" alt="Al-Amin Tokee" height="40" width="40" /></a>
 
 
 </p>
