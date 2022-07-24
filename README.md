@@ -1,13 +1,13 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Alamin Tokee</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Tanvirul islam</h1>
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/tanvirul-islam-swe/">
     <img src="https://img.shields.io/badge/linkedin-tanvir">
   </a>
   <a href="https://www.instagram.com">
-    <img src="https://img.shields.io/badge/instagram-alamintokee-orange">
+    <img src="https://img.shields.io/badge/instagram-tanvirislam-orange">
   </a>
-  <a href="https://www.youtube.com/CodeOptimizer/">
-    <img src="https://img.shields.io/badge/youtube-AlaminTokee-red">
+  <a href="https://www.youtube.com/channel/UC_1op6_BRiBiqB5bT-Uf3cw">
+    <img src="https://img.shields.io/badge/youtube-tanvirislam-red">
   </a>
   <span> <img src="https://komarev.com/ghpvc/?username=Alamin-Tokee" alt="alamintokee"></span>
 </p>
@@ -29,31 +29,11 @@
 
 <h4>Skills and Tools: </h4>
 <p align="left">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/adobexd.png" alt=adobexd width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/figma.png" alt=heroku width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/html5.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/css3.png" alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/d3.png" alt=d3js width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/jquery.png" alt=jquery width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/js.png" alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/babel.png" alt=babel width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/sass.png" alt=sass width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/gulp.png" alt=gulp width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/psql.png" alt=postgresql width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/php.png" alt=php width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/npm.png" alt=npm width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/yarn.png" alt=yarn width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/node.png" alt=nodejs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/express.png" alt=express width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/react.png" alt=react width="60" height="60"/> 
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/redux.png" alt=redux width="60" height="60"/> 
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/django.png" alt=django width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/github.png" alt=github width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/heroku.png" alt=heroku width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/postman.png" alt=heroku width="60" height="60"/>
  
 </p>
