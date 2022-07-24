@@ -1,61 +1,197 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Alamin Tokee</h1>
+ <p align="center"><br/>
+   <a href="https://www.linkedin.com/in/al-amin-tokee/">
+    <img src="https://img.shields.io/badge/linkedin-alamintokee-blue">
+  </a>
+  <a href="https://www.instagram.com/alamintokee/">
+    <img src="https://img.shields.io/badge/instagram-alamintokee-orange">
+  </a>
+  <a href="https://www.youtube.com/CodeOptimizer/">
+    <img src="https://img.shields.io/badge/youtube-AlaminTokee-red">
+  </a>
+  <span> <img src="https://komarev.com/ghpvc/?username=Alamin-Tokee" alt="alamintokee"></span>
+</p>
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+
+<h3 align="center">Web Developer | Competitive Coder | Machine Learning </h3>
+<h3 align="center">Bachelor in Engineering, Software Engineering (To be graduated in 2022)</h3>
+
+<!-- <a href="https://codechef.com/users/sachuverma"><img src="https://img.shields.io/badge/Codechef-2122-yellow"></a> -->
+<!-- <a href="https://codeforces.com/profile/sachuverma"><img src="https://img.shields.io/badge/Codeforces-1796-rgb(0%2C0%2C255)"></a> -->
+<!-- <a href="https://atcoder.jp/users/sachuverma"><img src="https://img.shields.io/badge/Atcoder-1300-rgb(0%2C192%2C192)"></a> -->
+<!-- <a href="https://leetcode.com/anjali-mc/"><img src="https://img.shields.io/badge/Leetcode-1940-ff69b4"></a> -->
+<!-- <a href="https://www.hackerrank.com/sachuverma"><img src="https://img.shields.io/badge/Hackerrank-1835-green"></a> -->
+
+<img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
+
+
+- 🔭 I’m currently working on **Improving CP Skills**
+- 🌱 I’m currently learning ... **React.js**
+- 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
+- 😄 Employement ... **Open for full-time opportunities**
+- 📫 How to reach me **<a href="mailto:alamintokee@gmail.com">alamintokee@gmail.com</a>**
+
+<h3>Competitive Programming: </h3>
+
+- **Leetcode**: [3⭐ and 1353+ rating📈](https://leetcode.com/Alamin_Tokee/)   
+- **Codeforces**: [Newbiew🧪](https://codeforces.com/profile/AH_Tokee)   
+- **Codechef**: [2⭐](https://www.codechef.com/users/alamintokee)   
+- **HackerRank**: [5⭐](https://www.hackerrank.com/pcswe556)  
+
+<h4>Programming Languages: </h4>
+<p align="left">
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/c.png" alt=c width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/python1.png" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/java.png" alt=c width="60" height="60"/>
+</p>
+
+<h4>Skills and Tools: </h4>
+<p align="left">
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/adobexd.png" alt=adobexd width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/figma.png" alt=heroku width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/html5.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/css3.png" alt=css3 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/d3.png" alt=d3js width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/jquery.png" alt=jquery width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/js.png" alt=javascript width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/babel.png" alt=babel width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/sass.png" alt=sass width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/gulp.png" alt=gulp width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/psql.png" alt=postgresql width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/php.png" alt=php width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/npm.png" alt=npm width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/yarn.png" alt=yarn width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/node.png" alt=nodejs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/express.png" alt=express width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/react.png" alt=react width="60" height="60"/> 
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/redux.png" alt=redux width="60" height="60"/> 
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/django.png" alt=django width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/git.png" alt=git width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/github.png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/heroku.png" alt=heroku width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/postman.png" alt=heroku width="60" height="60"/>
+ 
+</p>
+
+<h4>Desktop Environment: </h4>
+<p align="left">
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/slack.png" alt=slack width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/vsc.png" alt=vs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/atom.png" alt=atom width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/linux.png" alt=linux width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/win10.png" alt=windows10 width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/sublime.png" alt=sublime width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/eclipse.png" alt=sublime width="60" height="60"/>
+</p>
+<br />
+
+<details>
+  <summary align="center"> 
+    <span style="font-size:4em;">Check My Stats!✨ </span>
+  </summary>
+  <br />
+	
+  <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-624794%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 1,300 Contributions in the Year 2021
+ > 
+> 📦 1.2 MB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 55 Public Repositories 
+ > 
+> 🔑 14 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
+🌆 Daytime    338 commits    █████████░░░░░░░░░░░░░░░░   37.18% 
+🌃 Evening    340 commits    █████████░░░░░░░░░░░░░░░░   37.4% 
+🌙 Night      91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.01%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       144 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.84% 
+Tuesday      187 commits    █████░░░░░░░░░░░░░░░░░░░░   20.57% 
+Wednesday    143 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
+Thursday     124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Friday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.31% 
+Saturday     90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
+Sunday       100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               25 repos            ██████████░░░░░░░░░░░░░░░   41.67% 
+HTML                     13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67% 
+CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
+PHP                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/charts/bar_graph.png) 
+
+
+ Last Updated on 8/01/2021
+<!--END_SECTION:waka-->
+	
+</details>
+
+
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachuverma&count_private=true&show_icons=true" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachuverma&layout=compact" height="170px">
+</p>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sachuverma" height="170px">
 </p>
+ -->
+
 <p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
-
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-### :woman_technologist: &nbsp;About Me :
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
-
----
-
-### 🛠 &nbsp;Languages and Tools :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<!--<a href="https://codepen.io/alamintokee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="alamintokee" height="40" width="40" /></a>-->
+<a href="http://alamintokee.me/Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/web.png" alt="alamintokee" height="40" width="40" />
+<a href="https://linkedin.com/in/al-amin-tokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/linkedin.png" alt="alamintokee" height="40" width="40" /></a>
+<a href="https://instagram.com/alamintokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/instagram.png" alt="Al-Amin Tokee" height="40" width="40" /></a>
+<a href="https://youtube.com/CodeOptimizer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/youtube.png" alt="Al-Amin Tokee" height="40" width="40" /></a>
+<a href="https://twitter.com/tokee_al" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/twitter.png" alt="alamintokee" height="40" width="40" /></a>
+<a href="https://www.facebook.com/alaminhosen.tokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/facebook.png" alt="alamintokee" height="40" width="40" /></a>
 </p>
 
----
-
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+⭐️ From [Alamin Tokee](https://github.com/Alamin-Tokee) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```HappyCoding```
