@@ -30,7 +30,6 @@
 <h4>Skills and Tools: </h4>
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/figma.png" alt=heroku width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/github.png" alt=github width="60" height="60"/>
